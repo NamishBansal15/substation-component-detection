@@ -235,4 +235,4 @@ An earlier version of this work is available as an arXiv preprint:
 
 ## Contact
 
-For questions regarding this repository or the associated research, please open an issue through GitHub or contact the authors via namishemail@gmail.com and hdmody09@gmail.com
+For questions regarding this repository or the associated research, please open an issue through GitHub or contact the authors via namishemail@gmail.com and hdmody09@gmail.com.
